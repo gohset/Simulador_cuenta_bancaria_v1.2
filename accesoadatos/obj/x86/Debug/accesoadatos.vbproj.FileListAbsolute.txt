@@ -1,0 +1,85 @@
+K:\accesoadatos\accesoadatos\bin\Debug\accesoadatos.exe
+K:\accesoadatos\accesoadatos\bin\Debug\accesoadatos.pdb
+K:\accesoadatos\accesoadatos\bin\Debug\accesoadatos.xml
+K:\accesoadatos\accesoadatos\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Canton.resources
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.cuenta.resources
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Deposito.resources
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.cliente.resources
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Provincia.resources
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Inicio.resources
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.mantenimiento1.resources
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Resources.resources
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Retiros.resources
+K:\accesoadatos\accesoadatos\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\accesoadatos\accesoadatos\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.exe
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.xml
+K:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.pdb
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.exe
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.xml
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.pdb
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\bin\Debug\accesoadatos.exe
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\bin\Debug\accesoadatos.pdb
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\bin\Debug\accesoadatos.xml
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Canton.resources
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.cuenta.resources
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Deposito.resources
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.cliente.resources
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Provincia.resources
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Inicio.resources
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.mantenimiento1.resources
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Resources.resources
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Retiros.resources
+D:\VISUAL STUDIO PROGRAMACION IV\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.vbproj.GenerateResource.Cache
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.exe
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.xml
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.pdb
+J:\accesoadatos\accesoadatos\bin\Debug\accesoadatos.exe
+J:\accesoadatos\accesoadatos\bin\Debug\accesoadatos.pdb
+J:\accesoadatos\accesoadatos\bin\Debug\accesoadatos.xml
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Canton.resources
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.cuenta.resources
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Deposito.resources
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.cliente.resources
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Provincia.resources
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Inicio.resources
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.mantenimiento1.resources
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Resources.resources
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Retiros.resources
+J:\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.exe
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.xml
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.pdb
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\bin\Debug\accesoadatos.exe
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\bin\Debug\accesoadatos.pdb
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\bin\Debug\accesoadatos.xml
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Canton.resources
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.cuenta.resources
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Deposito.resources
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.cliente.resources
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Provincia.resources
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Inicio.resources
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.mantenimiento1.resources
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Resources.resources
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.Retiros.resources
+C:\Users\Usuario\Documents\accesoadatos\accesoadatos\obj\x86\Debug\accesoadatos.vbproj.GenerateResource.Cache
+J:\accesoadatosac\accesoadatos\obj\x86\Debug\accesoadatos.exe
+J:\accesoadatosac\accesoadatos\obj\x86\Debug\accesoadatos.xml
+J:\accesoadatosac\accesoadatos\obj\x86\Debug\accesoadatos.pdb
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.exe
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.xml
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.pdb
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\bin\Debug\accesoadatos.exe
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\bin\Debug\accesoadatos.pdb
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\bin\Debug\accesoadatos.xml
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.Canton.resources
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.cuenta.resources
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.Deposito.resources
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.cliente.resources
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.Provincia.resources
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.Inicio.resources
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.mantenimiento1.resources
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.Resources.resources
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.Retiros.resources
+D:\VISUAL STUDIO PROGRAMACION IV\1PROYECTOS\SIMULADOR_BSC SET\Simulador Cuenta Bancaria v2\accesoadatos\obj\x86\Debug\accesoadatos.vbproj.GenerateResource.Cache
